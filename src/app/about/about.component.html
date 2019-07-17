@@ -1,0 +1,30 @@
+<h3>Trivia</h3>
+<div *ngFor='let q of triviaQuestions' class='card m-5' style='text-align:center;'> 
+    <div class='card-body'>
+    <h6 style='text-align:center;'><i>{{q.category}}</i></h6>
+    <p class='lead' style='text-align:center;'>{{q.question}}</p>
+    <!-- <a class="btn btn-primary">{{q.correct_answer}}</a>
+    <a class="btn btn-info" *ngFor='let incorrect of q.incorrect_answers'>
+      {{incorrect}}
+    </a> -->
+    <div class='btn-toolbar' style='display: inline-block'>
+      <button type="button" (click)='checkAnswer(answer, q)' class="btn btn-outline-primary m-1" *ngFor="let answer of q.answers">
+        {{answer}}
+      </button>
+    </div>
+    
+    <p style="color:green;" 
+      [style.visibility]="q.answered?'':'hidden'"
+      [style.color]="q.correct?'green':'red'">
+      {{q.correct?"Correct!!":"Incorrect!"}}
+    </p>
+    
+    </div>
+</div>
+<!-- 
+<button (click)='log()'>Click</button> -->
+<br />
+
+<button type='button' class='btn btn-primary' (click) = 'reset()'>New Questions</button>
+<br />
+<br />

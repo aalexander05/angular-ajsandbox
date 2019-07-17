@@ -1,0 +1,22 @@
+.card-column {
+  float: left;
+  width: 2em;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.card-row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.card-image {
+  width: 8em;
+}
+
+.card-selected {
+  border: solid;
+  border-color: blue;
+  border-width: 3px;
+}

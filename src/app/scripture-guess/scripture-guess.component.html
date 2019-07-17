@@ -1,0 +1,27 @@
+
+
+<div style='text-align: center;' class='m-1'>
+  <p style='font-size:7pt;'>G U E S S . T H A T . S C R I P T U R E</p>
+  <button type='button' class='btn btn-outline-info' (click)='reset()'>New Scripture</button>
+
+  <p 
+    [style.visibility]="message === 'Correct!'?'':'hidden'"
+    class='m-1'
+    >{{scripture?scripture.reference:''}}</p>
+  <h4 *ngIf='scripture' [ngClass]='getScriptureClasses()' style='text-align:center;'> {{scripture.text}}</h4>
+
+  <p 
+    [style.font-size.pt]='18'
+    [style.visibility]="answered?'':'hidden'"
+    [style.color]="message === 'Correct!'?'green':'red'"
+    [ngClass]='getMessageClasses()'><b>{{message}}</b></p>
+</div>
+
+
+<div style='display: block;text-align: center;'>
+  
+<button type='button' class='btn btn-outline-info m-1' [ngClass]='getButtonClasses()' *ngFor='let book of pagebooks' (click)='checkScripture(book)' >{{book}}</button>
+
+<br/><br/><br/><br/>
+<!-- <input type='text' [(ngModel)]='gameMode.answerCount' value='4' /> -->
+</div>

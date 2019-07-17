@@ -1,0 +1,266 @@
+[
+  {
+    "bookName": "Genesis"	,
+    "numberOfBooks": 50
+  },
+  {
+    "bookName": "Exodus"	,
+    "numberOfBooks": 40
+  },
+  {
+    "bookName": "Leviticus"	,
+    "numberOfBooks": 27
+  },
+  {
+    "bookName": "Numbers"	,
+    "numberOfBooks": 36
+  },
+  {
+    "bookName": "Deuteronomy"	,
+    "numberOfBooks": 34
+  },
+  {
+    "bookName": "Joshua"	,
+    "numberOfBooks": 24
+  },
+  {
+    "bookName": "Judges"	,
+    "numberOfBooks": 21
+  },
+  {
+    "bookName": "Ruth"	,
+    "numberOfBooks": 4
+  },
+  {
+    "bookName": "1 Samuel"	,
+    "numberOfBooks": 31
+  },
+  {
+    "bookName": "2 Samuel"	,
+    "numberOfBooks": 24
+  },
+  {
+    "bookName": "1 Kings"	,
+    "numberOfBooks": 22
+  },
+  {
+    "bookName": "2 Kings"	,
+    "numberOfBooks": 25
+  },
+  {
+    "bookName": "1 Chronicles"	,
+    "numberOfBooks": 29
+  },
+  {
+    "bookName": "2 Chronicles"	,
+    "numberOfBooks": 36
+  },
+  {
+    "bookName": "Ezra"	,
+    "numberOfBooks": 10
+  },
+  {
+    "bookName": "Nehemiah"	,
+    "numberOfBooks": 13
+  },
+  {
+    "bookName": "Esther"	,
+    "numberOfBooks": 10
+  },
+  {
+    "bookName": "Job"	,
+    "numberOfBooks": 42
+  },
+  {
+    "bookName": "Psalms"	,
+    "numberOfBooks": 150
+  },
+  {
+    "bookName": "Proverbs"	,
+    "numberOfBooks": 31
+  },
+  {
+    "bookName": "Ecclesiastes"	,
+    "numberOfBooks": 12
+  },
+  {
+    "bookName": "Song of Solomon"	,
+    "numberOfBooks": 8
+  },
+  {
+    "bookName": "Isaiah"	,
+    "numberOfBooks": 66
+  },
+  {
+    "bookName": "Jeremiah"	,
+    "numberOfBooks": 52
+  },
+  {
+    "bookName": "Lamentations"	,
+    "numberOfBooks": 5
+  },
+  {
+    "bookName": "Ezekiel"	,
+    "numberOfBooks": 48
+  },
+  {
+    "bookName": "Daniel"	,
+    "numberOfBooks": 12
+  },
+  {
+    "bookName": "Hosea"	,
+    "numberOfBooks": 14
+  },
+  {
+    "bookName": "Joel"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "Amos"	,
+    "numberOfBooks": 9
+  },
+  {
+    "bookName": "Obadiah"	,
+    "numberOfBooks": 1
+  },
+  {
+    "bookName": "Jonah"	,
+    "numberOfBooks": 4
+  },
+  {
+    "bookName": "Micah"	,
+    "numberOfBooks": 7
+  },
+  {
+    "bookName": "Nahum"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "Habakkuk"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "Zephaniah"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "Haggai"	,
+    "numberOfBooks": 2
+  },
+  {
+    "bookName": "Zechariah"	,
+    "numberOfBooks": 14
+  },
+  {
+    "bookName": "Malachi"	,
+    "numberOfBooks": 4
+  },
+  {
+    "bookName": "Matthew"	,
+    "numberOfBooks": 28
+  },
+  {
+    "bookName": "Mark"	,
+    "numberOfBooks": 16
+  },
+  {
+    "bookName": "Luke"	,
+    "numberOfBooks": 24
+  },
+  {
+    "bookName": "John"	,
+    "numberOfBooks": 21
+  },
+  {
+    "bookName": "Acts"	,
+    "numberOfBooks": 28
+  },
+  {
+    "bookName": "Romans"	,
+    "numberOfBooks": 16
+  },
+  {
+    "bookName": "1 Corinthians"	,
+    "numberOfBooks": 16
+  },
+  {
+    "bookName": "2 Corinthians"	,
+    "numberOfBooks": 13
+  },
+  {
+    "bookName": "Galatians"	,
+    "numberOfBooks": 6
+  },
+  {
+    "bookName": "Ephesians"	,
+    "numberOfBooks": 6
+  },
+  {
+    "bookName": "Philippians"	,
+    "numberOfBooks": 4
+  },
+  {
+    "bookName": "Colossians"	,
+    "numberOfBooks": 4
+  },
+  {
+    "bookName": "1 Thessalonians"	,
+    "numberOfBooks": 5
+  },
+  {
+    "bookName": "2 Thessalonians"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "1 Timothy"	,
+    "numberOfBooks": 6
+  },
+  {
+    "bookName": "2 Timothy"	,
+    "numberOfBooks": 4
+  },
+  {
+    "bookName": "Titus"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "Philemon"	,
+    "numberOfBooks": 1
+  },
+  {
+    "bookName": "Hebrews"	,
+    "numberOfBooks": 13
+  },
+  {
+    "bookName": "James"	,
+    "numberOfBooks": 5
+  },
+  {
+    "bookName": "1 Peter"	,
+    "numberOfBooks": 5
+  },
+  {
+    "bookName": "2 Peter"	,
+    "numberOfBooks": 3
+  },
+  {
+    "bookName": "1 John"	,
+    "numberOfBooks": 5
+  },
+  {
+    "bookName": "2 John"	,
+    "numberOfBooks": 1
+  },
+  {
+    "bookName": "3 John"	,
+    "numberOfBooks": 1
+  },
+  {
+    "bookName": "Jude"	,
+    "numberOfBooks": 1
+  },
+  {
+    "bookName": "Revelation"	,
+    "numberOfBooks": 22
+  }
+]
